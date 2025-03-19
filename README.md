@@ -1,5 +1,6 @@
 # Amigo Secreto
-O Challenge do Amigo Secreto é uma aplicação para realizar o sorteio de um amigo secreto.
+O Challenge do Amigo Secreto é uma aplicação para realizar o sorteio de um amigo secreto. <br><br>
+<img src="./assets/imgs/Video_Amigo_Secreto.gif" width="850px">
 
 ## 🔨 Funcionalidades do projeto
 - Permite registrar vários nomes de amigos na lista;
